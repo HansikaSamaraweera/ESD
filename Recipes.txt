@@ -8,4 +8,7 @@ pizza
 donut
 milkshake
 
+Beans
+Cupcake
+
 Thank you :)
